@@ -1,2 +1,2 @@
 # ealati-hr-scrapy
-ealati-hr scraper
+A scrapt exercise that will scrape every single product form https://ealati.hr
